@@ -1,6 +1,8 @@
 ---
 title: Fenced Code Blocks
 tags: []
+type: markdown
+modified: '2017-04-04T16:34:05.216Z'
 ---
 **Javascript**
 ```javascript
@@ -216,5 +218,7 @@ Number representation in ASCII
 ]
 <<
 ```
+
+
 
 

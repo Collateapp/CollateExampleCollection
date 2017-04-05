@@ -2,7 +2,8 @@
 title: Welcome to Collate!
 tags:
   - Collate
-  - New Tag
+type: markdown
+modified: '2017-04-04T16:28:13.437Z'
 ---
 # Hi, thanks for trying out Collate!
 ## Collate is a note taking application that takes your data seriously.
@@ -35,4 +36,5 @@ This tiny block is call front matter! It's formatted in a way that both humans a
 
 #### Attachments
 Each note can have a folder named `attachments` in it.  This attachment folder will hold any files you attach to the note.  You can attach anything!  Documents, pictures, media clips, etc.  If you want to remember it, create a note, attach the file and write a short description.
+
 

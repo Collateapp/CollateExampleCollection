@@ -1,6 +1,8 @@
 ---
 title: Markdown Cheatsheet
 tags: []
+type: markdown
+modified: '2017-04-04T16:34:04.277Z'
 ---
 # Markdown Cheat sheet.
 Click the split screen button to see how markdown renders.
@@ -56,4 +58,5 @@ Text can be quoted with a right caret > in the beginning of a line.
 # Learn more
 - [Learn Markdown in 5 Minutes](http://commonmark.org/help/)
 - [Interactive Tutorial](http://commonmark.org/help/tutorial/)
+
 
